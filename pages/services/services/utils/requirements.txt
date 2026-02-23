@@ -3,3 +3,4 @@ firebase-admin
 Pillow
 tensorflow
 numpy
+# rebuild trigger
